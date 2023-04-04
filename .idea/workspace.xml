@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8196ee5f-f49e-42e8-a660-14d76599cdcf" name="Changes" comment="Seminar 1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Homework.java" afterDir="false" />
+    <list default="true" id="8196ee5f-f49e-42e8-a660-14d76599cdcf" name="Changes" comment="HW1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Стасик/Desktop/Учёба/Java/Seminars/Semi2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679934964640</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HW1">
+      <created>1680086168117</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680086168117</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Seminar 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seminar 1" />
+    <MESSAGE value="HW1" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW1" />
   </component>
 </project>
