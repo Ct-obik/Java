@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class Semi3 {
     public static void main(String[] args){
         List<String> text = new ArrayList<>();
